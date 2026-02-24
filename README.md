@@ -11,9 +11,6 @@ I build intelligent, scalable, and user-friendly web applications — combining 
 - **Frontend**  
   React · HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design
 
-- **AI / Machine Learning**  
-  Python · Jupyter Notebook · Sentiment Analysis · Fraud Detection Models · scikit-learn basics
-
 - **Databases**  
   MySQL · (exploring NoSQL)
 
