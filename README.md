@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hi 👋 I'm Arpit Kumar
 
-<!--
-**ARPIT-KUMAR-TIWARI-DEv/ARPIT-KUMAR-TIWARI-DEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring AI/ML Engineer 🤖 & Full Stack Java Developer 💻**  
 
-Here are some ideas to get you started:
+I build intelligent, scalable, and user-friendly web applications — combining robust backend systems with modern frontend and machine learning capabilities. Passionate about clean code, secure architecture, performance optimization, and turning ideas into production-ready solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Skills
+- **Backend**  
+  Java · Spring Boot · Spring Security · RESTful APIs · JWT Authentication · MVC Architecture
+
+- **Frontend**  
+  React · HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design
+
+- **AI / Machine Learning**  
+  Python · Jupyter Notebook · Sentiment Analysis · Fraud Detection Models · scikit-learn basics
+
+- **Databases**  
+  MySQL · (exploring NoSQL)
+
+- **Tools & Others**  
+  Git · GitHub · Postman · VS Code · Problem Solving · API Integration
+
+### 💡 What I Build
+- Full-stack web applications with Java + React  
+- Secure REST APIs and authentication systems  
+- Machine learning projects (e.g., fraud detection, sentiment analysis)  
+- Intelligent tools combining AI with web technologies  
+- Responsive and interactive user interfaces  
+
+### 🌱 Currently Learning / Exploring
+- Advanced Spring Security & OAuth2  
+- Microservices with Spring Boot  
+- Deep Learning frameworks (TensorFlow / PyTorch basics)  
+- MLOps and model deployment  
+
+### 🏆 Featured Projects
+Check out my pinned repositories for hands-on work:  
+- UPI Fraud Detection using Machine Learning  
+- Smart Email Reply Generator  
+- Portfolio website  
+- Sentiment Analysis models  
+
+### 📫 Let's Connect
+- **GitHub:** [github.com/ARPIT-KUMAR-TIWARI-DEv](https://github.com/ARPIT-KUMAR-TIWARI-DEv)  
+- **LinkedIn:** (add your LinkedIn URL here when ready)  
+- **Location:** Delhi, India  
+
+Feel free to explore my repositories, star projects you like, or reach out for collaboration on full-stack or AI/ML ideas! 🚀
+
+Thanks for stopping by! 😊
